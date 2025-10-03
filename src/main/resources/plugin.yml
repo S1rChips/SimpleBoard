@@ -1,0 +1,11 @@
+name: SimpleBoard
+version: '1.0'
+main: me.chips.dev.Main
+api-version: '1.8'
+authors: [ Chips ]
+website: mineheaven.ir
+commands:
+  sboard:
+    description: Main command for SimpleBoard
+    usage: /<command> reload
+    permission: simpleboard.reload

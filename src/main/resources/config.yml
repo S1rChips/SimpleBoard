@@ -1,0 +1,22 @@
+# ============================================
+#           SimpleBoard Configuration
+# ============================================
+
+# Title animation frames
+title-frames:
+  - "&a&lMineHeaven"
+  - "&b&lMineHeaven"
+  - "&d&lMineHeaven"
+  - "&f&lMineHeaven"
+
+# Delay between frames (ticks)
+title-delay: 10
+
+# Scoreboard lines (support PAPI)
+lines:
+  - "&7&m---------------------"
+  - "&fName: &a%player_name%"
+  - "&fPing: &a100ms"
+  - "&fWorld: &aWorld"
+  - "&fOnline: &a%server_online%"
+  - "&7&m---------------------"
