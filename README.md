@@ -1,2 +1,6 @@
 # SimpleBoard
 Scoreboard plugin | PAPI Support
+- Developer: `S1rChips`
+- version: `1.0.0`
+
+<img src="https://camo.githubusercontent.com/8f5a7bd322f80df14f4026b71cf9de08b4c14d77f334910bc82a6cb8a3f018d0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4a6574427261696e732b4d6f6e6f267765696768743d3630302673697a653d3230266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d3645353745302663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d5468616e6b732b666f722b7669736974696e67213b4b6565702b436f64696e672c2b4b6565702b47726f77696e67213b5365652b796f752b696e2b7468652b6e6578742b636f6d6d697421" alt="Typing Animation Footer" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2000&amp;pause=1000&amp;color=6E57E0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Thanks+for+visiting!;Keep+Coding,+Keep+Growing!;See+you+in+the+next+commit!" style="max-width: 100%;">
